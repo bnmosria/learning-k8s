@@ -77,8 +77,8 @@ By the end of this course, we'll have a working deployment of a Kotlin-based Spr
 ✅ Deploy full-stack apps using YAML, Secrets, ConfigMaps, and PVC  
 ✅ Build and run containerized Spring Boot apps  
 ✅ Expose services through Ingress with HTTPS  
-✅ Debug, scale, and manage your app like a pro
-✅ Automate tasks with Jobs and CronJobs
+✅ Debug, scale, and manage your app like a pro  
+✅ Automate tasks with Jobs and CronJobs  
 
 ---
 ## 📚 Project Modules
